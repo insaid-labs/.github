@@ -20,6 +20,12 @@
         </a>
         <br />
       </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/nuggetnuclear"> <img src="https://github.com/nuggetnuclear.png" width="100px;" style="border-radius:50%"/> <br />
+          <sub><b>@nuggetnuclear</b></sub>
+        </a>
+        <br />
+      </td>
     </tr>
   </table>
   <p>
