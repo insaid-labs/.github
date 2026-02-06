@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> Insaid Labs</h1>
+  <h1> Inside Labs</h1>
   
   <p>
     <strong>Building the boxes you love to break.</strong>
